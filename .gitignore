@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+.env
+*.db
+faiss_index/
+.ipynb_checkpoints/
+*.log
+.huggingface/
